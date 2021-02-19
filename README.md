@@ -20,13 +20,11 @@ A data scientist and telecoms engineer fascinated by the communication technolog
 * 🌐 Visit my [porfolio website](https://barsolai.dev) for complete background and contacts.
 
 <br>
-
+<!--
 ### Now Playing On My <img src="https://user-images.githubusercontent.com/14905480/108171778-140f6980-710d-11eb-811e-3604df77ee66.png" width="15">
 <br>
-
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31maffh5lfvaksseemfrvvkzo4t4&cover_image=true&theme=novatorem)
 <br/>
-<!--
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
