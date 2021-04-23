@@ -4,7 +4,7 @@
 
 <br />
 
-# Ola! I'm Chris Barsolai <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# Hi! I'm Chris Barsolai <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChrisBarso?style=social)](https://twitter.com/ChrisBarso)
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ChrisBarsolai?label=GitHub&style=social">
@@ -49,14 +49,14 @@ src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo
 <br>
 <text>Do. Or do not. There is no try. — Yoda</text>
 </p>
-<hr style="width:75%;text-align:center">
+<!--<hr style="width:75%;text-align:center">
 <p align="center">
 <img src="https://github.com/claytonjhamilton/claytonjhamilton/workflows/README%20build/badge.svg"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=chrisbarsolai.chrisbarsolai/&color=00cf0"/>
-<!--<br>
 <br>
-<img alt="centered image" height="85" src="https://raw.githubusercontent.com/hampusborgos/country-flags/899dceab6c99f030dee99f8a6f3f47f155f8f404/svg/ke.svg"/>-->
-</p>
+<br>
+<img alt="centered image" height="85" src="https://raw.githubusercontent.com/hampusborgos/country-flags/899dceab6c99f030dee99f8a6f3f47f155f8f404/svg/ke.svg"/>
+</p>-->
 
 <!--
 **ChrisBarsolai/ChrisBarsolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
