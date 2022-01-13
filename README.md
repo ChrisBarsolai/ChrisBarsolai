@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChrisBarso?style=social)](https://twitter.com/ChrisBarso)
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ChrisBarsolai?label=GitHub&style=social">
 <br><br>
-A data scientist and telecoms engineer fascinated by the communication technologies that power our connected life, and who's on a mission to make sense of the vast amount of data being generated daily.
+A data scientist and machine learning engineer fascinated by the technologies that power our connected life, and who's on a mission to make sense of the vast amount of data being generated daily.
 
 ▶ Personal site: https://barsolai.dev
 <hr>
